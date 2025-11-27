@@ -1,0 +1,224 @@
+Country Name,Country Code,Series Name,Series Code,1994 [YR1994],1995 [YR1995],1996 [YR1996],1997 [YR1997],1998 [YR1998],1999 [YR1999],2000 [YR2000],2001 [YR2001],2002 [YR2002],2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023],2024 [YR2024]
+Ghana,GHA,Access to electricity (% of population),EG.ELC.ACCS.ZS,30.36940574646,32.4504508972168,34.5287704467773,36.6036949157715,42.6,40.7405395507813,43.7,44.8,46.8,48.3,50.8,41.3,55.1,56.9,60.5,61.1,64.2,64.1,56.5,70.7,78.3,74,79.3,79,80.4,83.5,85.4,86.3,85.1,89.5,..
+Ghana,GHA,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.58188327755997,3.69449260642638,5.84076189699466,8.02875403552628,13.2811809712728,12.5339851120814,14.9,17.4,19.8,24,24.7,7.9,31.4,32.4,36.8,37.9,55.4,42,23.6,50.8,64,57,66.6,65.3,68.3,70,73.1,74,71.6,77.8,..
+Ghana,GHA,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,74.6652145385742,75.3336563110352,75.9894561767578,76.6294631958008,82.4,77.8511276245117,80.5,78.9,79.5,76.9,80.7,78.4,80.7,82.7,84.8,84.2,72.8,85,86.8,88.5,90.8,88.4,89.8,90,89.9,93.8,94.6,95.2,95,97.5,..
+Ghana,GHA,"Population, total",SP.POP.TOTL,16993190,17399017,17810181,18238958,18688036,19149864,19637087,20167069,20729388,21296705,21868298,22449438,23040702,23642279,24249946,24862664,25474995,26095088,26734268,27386193,28041592,28696068,29356742,30008354,30637585,31258945,31887809,32518665,33149152,33787914,34427414
+Ghana,GHA,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,..,..,..
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last Updated: 10/07/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Reference period,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,Other notes,License URL
+EG.ELC.ACCS.ZS,CC BY-4.0,Access to electricity (% of population),"Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.","Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.","SDG 7.1.1 Electrification Dataset, World Bank (WB), uri: https://trackingsdg7.esmap.org/downloads, note: Data is downloaded from ESMAP website. Data is released when a new Tracking SDG7 report is released., publisher: World Bank (WB), date accessed: 2024-05-16, date published: 2023",Environment: Energy production & use,WDI,% (share) of population,Annual,1990-2023,Population-weighted average,"Methodology: The World Bank’s Global Electrification Database (GED) compiles nationally representative household survey data, and occasionally census data, from sources going back as far as 1990. The database also incorporates data from the Socio-Economic Database for Latin America and the Caribbean (SEDLAC), Middle East and North Africa Poverty Database (MNAPOV) and the Europe and Central Asia Poverty Database (ECAPOV), which are based on similar surveys. At the time of this analysis, the GED contained 1,375 surveys for 149 countries in 1990-2021.","Maintaining reliable and secure electricity services while seeking to rapidly decarbonize power systems is a key challenge for countries throughout the world. More and more countries are becoming increasing dependent on reliable and secure electricity supplies to underpin economic growth and community prosperity. This reliance is set to grow as more efficient and less carbon intensive forms of power are developed and deployed to help decarbonize economies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Energy is necessary for creating the conditions for economic growth. It is impossible to operate a factory, run a shop, grow crops or deliver goods to consumers without using some form of energy. Access to electricity is particularly crucial to human development as electricity is, in practice, indispensable for certain basic activities, such as lighting, refrigeration and the running of household appliances, and cannot easily be replaced by other forms of energy. Individuals' access to electricity is one of the most clear and un-distorted indication of a country's energy poverty status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electricity access is increasingly at the forefront of governments' preoccupations, especially in the developing countries. As a consequence, a lot of rural electrification programs and national electrification agencies have been created in these countries to monitor more accurately the needs and the status of rural development and electrification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use of energy is important in improving people's standard of living. But electricity generation also can damage the environment. Whether such damage occurs depends largely on how electricity is generated. For example, burning coal releases twice as much carbon dioxide - a major contributor to global warming - as does burning an equivalent amount of natural gas.",,,https://datacatalog.worldbank.org/public-licenses#cc-by
+EG.ELC.ACCS.RU.ZS,CC BY-4.0,"Access to electricity, rural (% of rural population)","Access to electricity, rural is the percentage of rural population with access to electricity.","Access to electricity, rural is the percentage of rural population with access to electricity.","SDG 7.1.1 Electrification Dataset, World Bank (WB), uri: https://trackingsdg7.esmap.org/downloads, note: Data is downloaded from ESMAP website. Data is released when a new Tracking SDG7 report is released., publisher: World Bank (WB), date accessed: 2024-05-16, date published: 2023",Environment: Energy production & use,WDI,% (share) of rural population,Annual,1990-2023,Weighted average,"Methodology: The World Bank’s Global Electrification Database (GED) compiles nationally representative household survey data, and occasionally census data, from sources going back as far as 1990. The database also incorporates data from the Socio-Economic Database for Latin America and the Caribbean (SEDLAC), Middle East and North Africa Poverty Database (MNAPOV) and the Europe and Central Asia Poverty Database (ECAPOV), which are based on similar surveys. At the time of this analysis, the GED contained 1,375 surveys for 149 countries in 1990-2021.
+Statistical concept(s):","Maintaining reliable and secure electricity services while seeking to rapidly decarbonize power systems is a key challenge for countries throughout the world. More and more countries are becoming increasing dependent on reliable and secure electricity supplies to underpin economic growth and community prosperity. This reliance is set to grow as more efficient and less carbon intensive forms of power are developed and deployed to help decarbonize economies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Energy is necessary for creating the conditions for economic growth. It is impossible to operate a factory, run a shop, grow crops or deliver goods to consumers without using some form of energy. Access to electricity is particularly crucial to human development as electricity is, in practice, indispensable for certain basic activities, such as lighting, refrigeration and the running of household appliances, and cannot easily be replaced by other forms of energy. Individuals' access to electricity is one of the most clear and un-distorted indication of a country's energy poverty status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electricity access is increasingly at the forefront of governments' preoccupations, especially in the developing countries. As a consequence, a lot of rural electrification programs and national electrification agencies have been created in these countries to monitor more accurately the needs and the status of rural development and electrification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use of energy is important in improving people's standard of living. But electricity generation also can damage the environment. Whether such damage occurs depends largely on how electricity is generated. For example, burning coal releases twice as much carbon dioxide - a major contributor to global warming - as does burning an equivalent amount of natural gas.",,,https://datacatalog.worldbank.org/public-licenses#cc-by
+EG.ELC.ACCS.UR.ZS,CC BY-4.0,"Access to electricity, urban (% of urban population)","Access to electricity, urban is the percentage of urban population with access to electricity.","Access to electricity, urban is the percentage of urban population with access to electricity.","SDG 7.1.1 Electrification Dataset, World Bank (WB), uri: https://trackingsdg7.esmap.org/downloads, note: Data is downloaded from ESMAP website. Data is released when a new Tracking SDG7 report is released., publisher: World Bank (WB), date accessed: 2024-05-16, date published: 2023",Environment: Energy production & use,WDI,% (share) of urban population,Annual,1990-2023,Weighted average,"Methodology: The World Bank’s Global Electrification Database (GED) compiles nationally representative household survey data, and occasionally census data, from sources going back as far as 1990. The database also incorporates data from the Socio-Economic Database for Latin America and the Caribbean (SEDLAC), Middle East and North Africa Poverty Database (MNAPOV) and the Europe and Central Asia Poverty Database (ECAPOV), which are based on similar surveys. At the time of this analysis, the GED contained 1,375 surveys for 149 countries in 1990-2021.
+Statistical concept(s):","Maintaining reliable and secure electricity services while seeking to rapidly decarbonize power systems is a key challenge for countries throughout the world. More and more countries are becoming increasing dependent on reliable and secure electricity supplies to underpin economic growth and community prosperity. This reliance is set to grow as more efficient and less carbon intensive forms of power are developed and deployed to help decarbonize economies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Energy is necessary for creating the conditions for economic growth. It is impossible to operate a factory, run a shop, grow crops or deliver goods to consumers without using some form of energy. Access to electricity is particularly crucial to human development as electricity is, in practice, indispensable for certain basic activities, such as lighting, refrigeration and the running of household appliances, and cannot easily be replaced by other forms of energy. Individuals' access to electricity is one of the most clear and un-distorted indication of a country's energy poverty status.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electricity access is increasingly at the forefront of governments' preoccupations, especially in the developing countries. As a consequence, a lot of rural electrification programs and national electrification agencies have been created in these countries to monitor more accurately the needs and the status of rural development and electrification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use of energy is important in improving people's standard of living. But electricity generation also can damage the environment. Whether such damage occurs depends largely on how electricity is generated. For example, burning coal releases twice as much carbon dioxide - a major contributor to global warming - as does burning an equivalent amount of natural gas.",,,https://datacatalog.worldbank.org/public-licenses#cc-by
+SP.POP.TOTL,CC BY-4.0,"Population, total","Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.","Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.","World Population Prospects, United Nations (UN), uri: https://population.un.org/wpp/, publisher: UN Population Division;
+Statistical databases and publications from national statistical offices, National Statistical Offices, uri: https://unstats.un.org/home/nso_sites/, publisher: National Statistical Offices;
+Eurostat: Demographic Statistics, Eurostat (ESTAT), uri: https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly, publisher: Eurostat;
+Population and Vital Statistics Report (various years), United Nations (UN), uri: https://unstats.un.org, publisher: UN Statistics Division",Health: Population: Structure,WDI,Unit,Annual,1960-2024,Sum,"Methodology: Population estimates are usually based on national population censuses, and estimates of fertility, mortality and migration.
+
+
+
+Errors and undercounting in census occur even in high-income countries.  In developing countries errors may be substantial because of limits in the transport, communications, and other resources required to conduct and analyze a full census.
+
+
+
+The quality and reliability of official demographic data are also affected by public trust in the government, government commitment to full and accurate enumeration, confidentiality and protection against misuse of census data, and census agencies' independence from political influence. Moreover, comparability of population indicators is limited by differences in the concepts, definitions, collection procedures, and estimation methods used by national statistical agencies and other organizations that collect the data.
+
+
+
+The currentness of a census and the availability of complementary data from surveys or registration systems are objective ways to judge demographic data quality. Some European countries' registration systems offer complete information on population in the absence of a census.
+
+
+
+The United Nations Statistics Division monitors the completeness of vital registration systems. Some developing countries have made progress over the last 60 years, but others still have deficiencies in civil registration systems.
+
+
+
+International migration is the only other factor besides birth and death rates that directly determines a country's population change. Estimating migration is difficult. At any time many people are located outside their home country as tourists, workers, or refugees or for other reasons. Standards for the duration and purpose of international moves that qualify as migration vary, and estimates require information on flows into and out of countries that is difficult to collect.
+
+
+
+One of the major data sources of this indicator is UN Population Division's World Population Prospects, which use the cohort component method to produce population estimates and projections.
+
+
+
+Population projections, starting from a base year are projected forward using assumptions of mortality, fertility, and migration by age and sex through 2050, based on the UN Population Division's World Population Prospects database medium variant.
+Statistical concept(s): Estimates of total population describe the size of total population. Population estimates are dependent on the demographic components of change that are fertility, mortality and migration. As the size of population continues to change throughout the time even within a year, a reference time in the year that the estimate refers to is needed, such as mid-year, end-year or beginning of year. The values shown are midyear estimates.","Increases in human population, whether as a result of immigration or more births than deaths, can impact natural resources and social infrastructure.  This can place pressure on a country's sustainability.  A significant growth in population will negatively impact the availability of land for agricultural production, and will aggravate demand for food, energy, water, social services, and infrastructure. On the other hand, decreasing population size - a result of fewer births than deaths, and people moving out of a country - can impact a government's commitment to maintain services and infrastructure.","Current population estimates for developing countries that lack (i) reliable recent census data, and (ii) pre- and post-census estimates for countries with census data, are provided by the United Nations Population Division and other agencies. 
+
+
+
+The cohort component method - a standard method for estimating and projecting population - requires fertility, mortality, and net migration data, often collected from sample surveys, which can be small or limited in coverage. Population estimates are from demographic modeling and so are susceptible to biases and errors from shortcomings in both the model and the data.
+
+
+
+Because future trends cannot be known with certainty, population projections have a wide range of uncertainty.",Relevance to gender indicator: disaggregating the population composition by gender will help a country in projecting its demand for social services on a gender basis.,https://datacatalog.worldbank.org/public-licenses#cc-by
+EG.ELC.COAL.ZS,CC BY-4.0,Electricity production from coal sources (% of total),"The share of electricity production from coal sources of total electricity production. Sources of electricity refer to the inputs used to generate electricity. Coal refers to all coal and brown coal, both primary (including hard coal and lignite-brown coal) and derived fuels (including patent fuel, coke oven coke, gas coke, coke oven gas, and blast furnace gas). Peat is also included in this category.","The share of electricity production from coal sources of total electricity production. Sources of electricity refer to the inputs used to generate electricity. Coal refers to all coal and brown coal, both primary (including hard coal and lignite-brown coal) and derived fuels (including patent fuel, coke oven coke, gas coke, coke oven gas, and blast furnace gas). Peat is also included in this category.","IEA Energy Statistics Data Browser, International Energy Agency (IEA), uri: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser, publisher: International Energy Agency (IEA), date accessed: 2025-03-25",Environment: Energy production & use,WDI,% (share) of total electricity production,Annual,1960-2023,Weighted average using total electricity production as weights,"Methodology: Electricity production is total number of kilowatt-hours (kWh) generated by power plants separated into electricity plants and combined heat and power (CHP) plants. The International Energy Agency (IEA) compiles data on energy inputs used to generate electricity. IEA data for countries that are not members of the Organisation for Economic Co-operation and Development (OECD) are based on national energy data adjusted to conform to annual questionnaires completed by OECD member governments. In addition, estimates are sometimes made to complete major aggregates from which key data are missing, and adjustments are made to compensate for differences in definitions. The IEA makes these estimates in consultation with national statistical offices, oil companies, electric utilities, and national energy experts.
+Statistical concept(s): Electricity production is the total amount of electricity generated by power plants in an economy.","Since the beginning of the 21st century, coal has been the fastest-growing global energy source; it currently provides about 40 percent of the world's electricity needs. Coal is the second source of primary energy in the world after oil, and the first source of electricity generation.. The last decade's growth in coal use has been driven by the economic growth of developing economies, mainly China. Irrespective of its economic benefits for the countries, the environmental impact of coal use, especially that coming from carbon dioxide emissions, is significant, and efforts are underway globally to build more efficient plants, to retrofit old plants and to decommission the oldest and least efficient coal plants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use of energy is important in improving people's standard of living. But electricity generation also can damage the environment. Whether such damage occurs depends largely on how electricity is generated. For example, burning coal releases twice as much carbon dioxide - a major contributor to global warming - as does burning an equivalent amount of natural gas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anthropogenic carbon dioxide emissions result primarily from fossil fuel combustion and cement manufacturing. In combustion different fossil fuels release different amounts of carbon dioxide for the same level of energy use: oil releases about 50 percent more carbon dioxide than natural gas, and coal releases about twice as much. Nuclear energy does not generate carbon dioxide emissions, but it produces other dangerous waste products.","IEA occasionally revises its time series to reflect political changes. For example, the IEA has constructed historical energy statistics for countries of the former Soviet Union. In addition, energy statistics for other countries have undergone continuous changes in coverage or methodology in recent years as more detailed energy accounts have become available. Breaks in series are therefore unavoidable.","Electricity production shares may not sum to 100 percent because other sources of generated electricity (such as geothermal, solar, and wind) are not shown.",https://datacatalog.worldbank.org/public-licenses#cc-by
