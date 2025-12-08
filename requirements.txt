@@ -1,5 +1,6 @@
 ipykernel
 pandas
+openpyxl
 plotly
 jupyter-book==1.0.3
 lxml
