@@ -5,6 +5,8 @@ plotly
 jupyter-book==1.0.3
 lxml
 requests
+numpy
+matplotlib
 
 # needed for plotly
 nbformat

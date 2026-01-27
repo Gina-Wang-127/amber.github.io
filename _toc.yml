@@ -5,3 +5,4 @@ chapters:
   - file: Project1/project_1
   - file: Project2/project_2
   - file: Project3/project_3
+  - file: K-means/clustering
