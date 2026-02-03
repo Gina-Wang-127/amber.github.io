@@ -5,4 +5,6 @@ chapters:
   - file: Project1/project_1
   - file: Project2/project_2
   - file: Project3/project_3
-  - file: K-means/clustering
+  - file: PS1/K-means/clustering
+  - file: PS2/top_pop
+  - file: PS2/poisonous_mushrooms

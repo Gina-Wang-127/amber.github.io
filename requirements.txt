@@ -7,6 +7,8 @@ lxml
 requests
 numpy
 matplotlib
+plotnine
+scipy
 
 # needed for plotly
 nbformat
