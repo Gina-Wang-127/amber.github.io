@@ -8,3 +8,4 @@ chapters:
   - file: PS1/K-means/clustering
   - file: PS2/top_pop
   - file: PS2/poisonous_mushrooms
+  - file: credit_risk_dashboard/credit_risk
